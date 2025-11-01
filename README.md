@@ -19,6 +19,20 @@ We chose this approach because it combines fast, accurate object detection (YOLO
 - Dataset: FER2013 (35K+ images)
 - Labels: Happy, Sad, Angry, Surprised, Fearful, Disgusted, Neutral
 - Source: Kaggle / Roboflow
+- # Dataset Information
+
+## FER2013 Dataset
+- Source: Kaggle / Roboflow
+- Type: Facial emotion recognition dataset
+- Total Images: ~35,000
+- Classes: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
+- Format: 48x48 grayscale facial images
+- License: Public educational use
+
+For best results:
+- Resize all images to (224x224)
+- Split data 80/10/10 (train/validation/test)
+- Apply image augmentation (flips, brightness, rotations)
 
 ##  Week-by-Week Plan
 Week 10 – Dataset setup  
