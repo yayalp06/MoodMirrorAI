@@ -244,15 +244,3 @@ AI-generated content was used strictly as an assistive resource and was reviewed
 All final decisions, testing, and project execution were performed by the student.
 
 ---
-
-## Demo Video (3–5 minutes) – What to Record
-
-1. **Intro (15–30s)**: what MoodMirror AI does  
-2. **Pipeline (30–45s)**: Camera → YOLO face detection → emotion label → affirmation  
-3. **Live Demo (1.5–3 mins)**: run `python app.py` and show it working  
-4. **Wrap-up (30–45s)**: challenges + future improvements (Spotify integration / trained FER model)
-
-Suggested recording tools:
-- Mac: QuickTime Screen Recording
-- Windows: Xbox Game Bar or OBS
-- Upload: YouTube (Unlisted) or Google Drive (Anyone with link)
